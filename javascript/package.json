@@ -1,0 +1,13 @@
+{
+  "name": "ln-week-3-assignment",
+  "version": "1.0.0",
+  "description": "Week 3 assignment for Mastering Lightning Network",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bitcoin-core": "^4.0.0",
+    "axios": "^1.13.0"
+  }
+}

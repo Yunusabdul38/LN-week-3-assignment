@@ -1,0 +1,10 @@
+/node_modules/
+rust/Cargo.lock
+.idea
+install
+.DS_Store
+target/
+/venv
+__pycache__/
+javascript/node_modules/
+javascript/package-lock.json
